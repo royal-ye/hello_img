@@ -1,5 +1,5 @@
 -- usage example: DATA_ROOT=/path/to/data/ which_direction=BtoA name=expt1 th train.lua 
---
+--  Hope to change something!
 -- code derived from https://github.com/soumith/dcgan.torch
 --
 require 'torch'
